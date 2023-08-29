@@ -10,11 +10,9 @@ Founded by Wilson Dhalwani, this organization was made to help engineer the futu
 
 ### Organization Work 
 
-The work of Dhalwani Designs, completely done by Wilson Dhalwani, can be found on his GitHub Account and his personal website. 
+The work of Dhalwani Designs, completely done by Wilson Dhalwani, can be found on his GitHub Account and his personal website; links are above.  
 
 ##
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dhalwani-Designs&theme=hacker&border_radius=3&date_format=M%20j%5B%2C%20Y%5D&card_width=275&background=45%2C465D4A00%2C000000&stroke=2FFF3AB9&border=8CEB94&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!---
 Dhalwani-Designs/Dhalwani-Designs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
