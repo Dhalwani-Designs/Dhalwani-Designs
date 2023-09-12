@@ -1,6 +1,6 @@
 ## Dhalwani Designs
 
-Founded by Wilson Dhalwani, this organization was made to help engineer the future. This organization is used to represent Wilson in his work and research. This is a one-man engineering organization and used to give an official group name to many of his projects.
+Founded by Wilson Dhalwani, this organization was made to help engineer the future. This is a one-man engineering organization and used to represent Wilson in his many projects and research work. 
 
 #### Contact Dhalwani Designs
 - Email: dhalwani.designs@gmail.com 
