@@ -6,11 +6,10 @@ Founded by Wilson Dhalwani, this organization was made to help engineer the futu
 - Email: dhalwani.designs@gmail.com 
 - Linkedin: https://www.linkedin.com/in/wilsondhalwani/ 
 - GitHub: https://github.com/Midlandswim
-- Website: https://wilsondhalwani.wixsite.com/portfolio  
 
 ### Organization Work 
 
-The work of Dhalwani Designs, completely done by Wilson Dhalwani, can be found on his GitHub Account and his personal website; links are above.  
+The work of Dhalwani Designs, completely done by Wilson Dhalwani, can be found on his GitHub Account, linked above. Reproduction or use of his work is prohibited without permission. 
 
 ##
 
